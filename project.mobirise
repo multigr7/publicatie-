@@ -1,0 +1,1307 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "M 11",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 62,
+    "versionPublish": "3.9.2",
+    "favicon": "",
+    "noImageResize": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/sophiahahmann/Desktop/mobirise%20lokaal"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-7",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m11-bewerkt-2000x1413-7.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "multidiciplinariteit",
+          "text": "Een multidisciplinaire activiteit is een activiteit, <br>zoals bepaalde vormen van wetenschap en kunst, <br>waarbij kennis vanuit meerdere disciplines <br>gecombineerd wordt ingezet om de activiteit te voltooien.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content2-o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p></p><p></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "100px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "C10",
+          "meta": "<span style=\"font-style: normal;\">Natai Herremans, Anouk Henderickx, Floriane Bande, Sophia Hahmann</span>&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content2-g",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#ffffff"
+          },
+          "text": "<span style=\"line-height: 26px;\">Een multidisciplinaire activiteit is een activiteit, zoals bepaalde vormen van wetenschap en kunst, waarbij</span><div><span style=\"line-height: 26px;\">kennis vanuit meerdere disciplines gecombineerd wordt ingezet om de activiteit te voltooien. Na het volgen</span></div><div><span style=\"line-height: 26px;\">van enkele multidisciplinaire lezingen, hebben we geconcludeerd dat elke kunstenaar of ontwerper wel degelijk</span></div><div><span style=\"line-height: 26px;\">meerdere disciplines gebruikt om tot een sterk geheel te komen. Het is en blijft een interessante aanpak</span></div><div><span style=\"line-height: 26px;\">om tot een eindresultaat te komen. Het ontdekken van verschillende disciplines schept veel informatie en</span></div><div><span style=\"line-height: 26px;\">beïnvloed ook sterk het ontwerpproces. Het is ons dan ook bijgebleven dat het van groot belang is te durven</span></div><div><span style=\"line-height: 26px;\">experimenteren<i>.&nbsp;</i></span></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "DANS",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<span style=\"line-height: 26px;\">Dans (van het Franse danse) is een sport, kunstvorm of een sociaal gebeuren dat meestal op beweging duidt</span><div><span style=\"line-height: 26px;\">van het lichaam, vaak in combinatie met muziek. Het wordt gebruikt als een vorm van emotionele expressie,</span></div><div><span style=\"line-height: 26px;\">sociale interactie of in een spirituele of uitvoerende vorm</span></div><div><br></div><div><span style=\"line-height: 26px;\"><i><b><br></b></i></span></div><div><br></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "I": {
+              "text-align": "right"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content2-u",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<i style=\"line-height: 26px; font-size: 1.07rem;\"><b>FASE 1</b></i><br><div>Als vooronderzoek zijn we</div><div>gezocht naar iemand die een</div><div>enorme passie voor dansen</div><div>heeft. Zo zijn we terecht</div><div>gekomen bij Linne Dierck,</div><div>coach bij LGU Academy / Let’s</div><div>Go Urban. Zelf heeft ze al in</div><div>Amerika gedanst en heeft ze</div><div>ook haar eigen dans-team</div><div>‘NAVITAS’ binnen Let’s Go</div><div>Urban. Het team wordt geleidt</div><div>door 5 jonge dames die willen</div><div>laten zien dat vrouwen ook de</div><div>kracht hebben om het ver te</div><div>schoppen.&nbsp;</div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "DIV": {
+              "font-size": "15px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content7-r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>DE</b> <b>7 SCHOONHEDEN VOLGENS LINNE</b></p><p><br></p><p><b>MUZE</b></p><p>‘De personen die me het meeste&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">geïnspireerd hebben zijn FKA</span></p><p>Twigs, Rihanna en Willow Smith,</p><p>omdat ze een duidelijke visie</p><p>over het vrouw-zijn hebben en</p><p>hun eigen doelen in het leven</p><p>voor zich zien. Ze zijn zo artistiek</p><p>en overweldigend. Elke keer als</p><p>ik hen bezig zie ben ik volledig</p><p>onder de indruk van wat voor</p><p>vrouwen het zijn. Ze uiten zih op</p><p>elke mogelijke manier zo sterk,</p><p>door kledij, kunst, dans, muziek,...</p><p>het zijn vrouwen die statements</p><p>maken in het leven.’</p><p><br></p><p><b>BUITENBEENTJE</b></p><p>‘Overal het buitenbeentje zijn</p><p>heeft me gebracht tot waar ik nu</p><p>sta. Ik heb dat nooit erg gevonden,</p><p>want elk buitenbeentje in de</p><p>maatschappij draagt volgens mij</p><p>iets speciaals met zich mee.’</p><p><br></p><p style=\"font-size: 17px;\"><span style=\"font-weight: 700;\">TWEEDE KEER, GOEDE KEER</span></p><p style=\"font-size: 17px;\">‘Als klein meisje heb ik bij me</p><p style=\"font-size: 17px;\">thuis in de buurt gedanst en</p><p style=\"font-size: 17px;\">dan ben ik jaren lang gestopt</p><p style=\"font-size: 17px;\">met dansen tot ik plots terug de</p><p style=\"font-size: 17px;\">smaak te pakken kreeg, enkele</p><p style=\"font-size: 17px;\">jaren geleden nog maar, FACT en</p><p style=\"font-size: 17px;\">‘Lokale Helden’ in Lier. Ik was helemaal</p><p style=\"font-size: 17px;\">gebeten om eigen creaties</p><p style=\"font-size: 17px;\">te maken en Lier heeft me daar</p><p style=\"font-size: 17px;\">enorm in gesteund.’</p>",
+          "text2": "<p><br></p><p><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">SAMWD</b><br></p><div>‘De gang op het eerste verdiep</div><div>van de muziekschool, met de ramen</div><div>die uitkijken op de balletlessen</div><div>zijn heel belangrijk geweest</div><div>voor mij. Ik kwam altijd kijken</div><div>naar de balletdansers terwijl ik</div><div>boven gitaar moest spelen. Toen</div><div>al was het duidelijk dat mijn hart</div><div>in de balletzaal behoort.’</div><div><br></div><div><b>TOEKOMST</b></div><div>‘Als ik blijf volharden in waar ik</div><div>nu mee bezig ben, dan heb ik er</div><div>echt vertrouwen in dat ik ook</div><div>alles zal kunnen verwezelijken</div><div>wat ik wil. Mijn ultieme droom is</div><div>dan ook om een eigen collectie en</div><div>productie te creëren.’</div><div><br></div><div><b>CULTURELE TIPS</b></div><div>‘Ik denk dat Lier de laatste jaren</div><div>een grote stap in de goede richting</div><div>heeft gezet, maar we zijn er</div><div>nog niet. Lier is qua jongeren en</div><div>cultuur nog steeds toe aan heel</div><div>wat vernieuwing, maar ARTAFACT</div><div>is wel een heel belangrijk</div><div>onderdeel van het cultuurbeleid</div><div>voor jongeren in Lier denk ik, mits</div><div>de goede ondersteuning zie ik Lier</div><div>hier wel in groeien.’</div><p></p>",
+          "text3": "<p><br></p><p><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">KUNST EN CULTUUR</b><br></p><div>‘Ik vind dat onze maatschappij</div><div>nog steeds veel te weinig geld</div><div>aan kunst en cultuur besteedt. De</div><div>staat zou er meer subsidies voor</div><div>moeten vrijmaken. Er worden</div><div>weinig risico’s genomen en ik</div><div>acht dat wel als nodig cultuur</div><div>en kunst volwaardig te kunnen</div><div>integreren in onze maatschappij.</div><div>Dat geeft me alleen maar meer</div><div>energie om ervoor te vechten,</div><div>want kunst en cultuur blijven</div><div>enorm verrijkend.’</div><p></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linne2-2000x1333-76-2000x1333-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/linne2-2000x1333-76.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linne4-2000x1333-6-2000x1333-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/linne4-2000x1333-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linne3-2000x1333-95-2000x1333-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/linne3-2000x1333-95.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linne5-2000x1266-69-2000x1266-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/linne5-2000x1266-69.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-z",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "LINK TUSSEN DANS EN<div>ARCHITECTUUR</div>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content2-11",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<div><span style=\"line-height: 26px;\">Na het bestuderen van verschillende dansvideo’s en foto’s werd het al snel duidelijk dat beide disciplines een</span></div><div><span style=\"line-height: 26px;\">eigen vormtaal hebben ontwikkelt. Onder de vormtaal van dans analyseren we: architectuur van de</span></div><div><span style=\"line-height: 26px;\">beweging en architectuur van het lichaam.</span></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "I": {
+              "text-align": "right"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content2-13",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<i style=\"line-height: 26px; font-size: 1.07rem;\"><b>FASE 2</b></i><br><div>De architectuur van de</div><div>beweging zorgt voor het</div><div>afbakenen van de rijkruimte</div><div>van een individu. De</div><div>manier waarop kan</div><div>gebeuren is afhankelijk van</div><div>de dansstijl.</div><div>Om een architecturale</div><div>vorm te baseren op de</div><div>houding van een danser,</div><div>hebben we ons laten</div><div>inspireren door o.a.</div><div>Wassily Kandinsky – Tanzkurven:</div><div>Zu den Tänzen der</div><div>Palucca.&nbsp;</div>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/architectuur-van-de-beweging-2000x3121-24-2000x3121-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/architectuur-van-de-beweging-2000x3121-24.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-13-2000x1414-22-2000x1414-14.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-13-2000x1414-22.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/architectuur-van-de-beweging1-2000x2000-9-2000x2000-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/architectuur-van-de-beweging1-2000x2000-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kandinsky-2000x1375-97-2000x1375-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kandinsky-2000x1375-97.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tumblr-lt86egsmek1qza7ybo2-500-2000x2768-11-2000x2768-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tumblr-lt86egsmek1qza7ybo2-500-2000x2768-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-15-2000x1414-51-2000x1414-26.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-15-2000x1414-51.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-12-2000x1414-83-2000x1414-97.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-12-2000x1414-83.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-14-2000x1414-31-2000x1414-89.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-14-2000x1414-31.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-14",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "ARCHITECTUUR VAN HET LICHAAM",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "content2-17",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<div><span style=\"line-height: 26px;\">De architectuur van het lichaam zijn we gaan uitpuren door de focus te leggen op het sleutelbeen.&nbsp;</span></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000",
+              "font-size": "15px"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "I": {
+              "text-align": "right"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content2-18",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<i style=\"line-height: 26px; font-size: 1.07rem;\"><b>FASE 3</b></i><div><span style=\"line-height: 26px;\"><i>Voor ons ligt de dynamische vertaling van dans in</i></span></div><div><span style=\"line-height: 26px;\"><i>het sleutelbeen. Het sleutelbeen of clavicula is in</i></span></div><div><span style=\"line-height: 26px;\"><i>de menselijke anatomie het bot (één links en één</i></span></div><div><span style=\"line-height: 26px;\"><i>rechts) dat het schouderblad met het borstbeen</i></span></div><div><span style=\"line-height: 26px;\"><i>verbindt. Het maakt deel uit van de schoudergordel.</i></span></div><div><span style=\"line-height: 26px;\"><i><br></i></span></div><div><span style=\"line-height: 26px;\"><i>Het zorgt er samen met het schouderblad voor dat</i></span></div><div><span style=\"line-height: 26px;\"><i>de arm een vrijwel complete rotatie kan maken.</i></span></div><div><span style=\"line-height: 26px;\"><i>Een been daarentegen beweegt door middel van</i></span></div><div><span style=\"line-height: 26px;\"><i>een ander type gewricht, waardoor geen complete</i></span></div><div><span style=\"line-height: 26px;\"><i>rotatie mogelijk is. Het sleutelbeen dankt zijn naam</i></span></div><div><span style=\"line-height: 26px;\"><i>aan de beweging die het maakt bij een verticale</i></span></div><div><span style=\"line-height: 26px;\"><i>draaibeweging van de arm: het draait rond zijn</i></span></div><div><span style=\"line-height: 26px;\"><i>lengteas zoals een sleutel in een slot.</i></span></div><div><span style=\"line-height: 26px;\"><i>Het sleutelbeen is dan ook het eerste bot in het</i></span></div><div><span style=\"line-height: 26px;\"><i>menselijk lichaam dat al voor de geboorte verhardt</i></span></div><div><span style=\"line-height: 26px;\"><i>tot bot. Dit proces is voltooid rond 21 jaar. Omdat</i></span></div><div><span style=\"line-height: 26px;\"><i>dit één van de langst doorgroeiende menselijke</i></span></div><div><span style=\"line-height: 26px;\"><i>beenderen is, wordt het gebruikt om voorspellingen</i></span></div><div><span style=\"line-height: 26px;\"><i>te doen over de uiteindelijke lengte die een</i></span></div><div><span style=\"line-height: 26px;\"><i>mens na de groeifase zal bereiken.</i></span></div><div><span style=\"line-height: 26px;\"><i>Het was dan ook een logische keuze om het</i></span></div><div><span style=\"line-height: 26px;\"><i>sleutelbeen te kiezen door zijn 360° rotatiemogelijkheid,</i></span></div><div><span style=\"line-height: 26px;\"><i>wat voor een dynamische uitwerking zal</i></span></div><div><span style=\"line-height: 26px;\"><i>zorgen.</i></span></div>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15241751-10209860498060463-644495203994564932-n-2000x2852-86-2000x2852-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15241751-10209860498060463-644495203994564932-n-2000x2852-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15259408-10209860497780456-236677019382046001-o-2000x2758-2-2000x2758-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15259408-10209860497780456-236677019382046001-o-2000x2758-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15267530-10209860498100464-6294543680763507742-n-2000x2802-39-2000x2802-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15267530-10209860498100464-6294543680763507742-n-2000x2802-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15259408-10209860497780456-236677019382046001-o-2000x2758-1-2000x2758-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15259408-10209860497780456-236677019382046001-o-2000x2758-1.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-1a",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "BRAINSTORM",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "I": {
+              "text-align": "right"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content2-1f",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<i style=\"line-height: 26px; font-size: 1.07rem;\"><b>FASE 4</b></i><br><div><br></div>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-8-2000x1414-14-2000x1414-18.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-8-2000x1414-14.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-5-2000x2828-31-2000x2828-59.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-5-2000x2828-31.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-7-2000x1414-74-2000x1414-60.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-7-2000x1414-74.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-2-2000x2828-88-2000x2828-6.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-2-2000x2828-88.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-1-2000x2828-90-2000x2828-84.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-1-2000x2828-90.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-3-2000x2828-64-2000x2828-24.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-3-2000x2828-64.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-6-2000x2828-82-2000x2828-92.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-6-2000x2828-82.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m11-2000x2828-70-2000x2828-39.png",
+                "image": "@PROJECT_PATH@/assets/images/m11-2000x2828-70.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<div>TECHNIEK EN MATERIAAL</div>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#000000"
+            },
+            "P": {
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "I": {
+              "text-align": "right"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content2-1g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<i style=\"line-height: 26px; font-size: 1.07rem;\"><b>FASE 5</b></i><br><div><br></div>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2450-2000x1500-70-2000x1500-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2450-2000x1500-70.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2442-2000x1500-54-2000x1500-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2442-2000x1500-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2449-2000x1500-7-2000x1500-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2449-2000x1500-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2444-2000x1500-2-2000x1500-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2444-2000x1500-2.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-1k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#232323",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "15px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-1m",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=ccLWfvypSIY&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BOUWTECHNISCHE MAQUETTE",
+          "text": "De vertaling van dans trachten te vertalen in een bouwtechnische vorm blijft steeds een interssant onderzoeks proces. Bij het maken van deze bouwtechniek hebben we ons laten inspireren door de werken van Theo Jansen. Hij staat bekend voor zijn bewegende sculpturen die door dynamische verbindingen en wind worden voortgezet. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#232323",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "15px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-1l",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=PG2Xv2ivZZU",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "THEO JANSEN",
+          "text": "Geïnteresseerd in het mechanisme van de evolutie probeert Theo Jansen met de computer zijn ontwerpen te selecteren, zoals dieren in de evolutie worden geselecteerd. De strandbeesten waarmee hij bekend is geworden, waren in eerste instantie bedoeld om het strand en duinlandschap te beïnvloeden. Gaandeweg is hij geïnteresseerd geraakt in de looptechniek waarmee ze zich zouden kunnen verplaatsen. Uiteindelijk is het gelukt om met behulp van luchtdruk in PET-flessen (\"opgeslagen wind\") en een loopmechaniek dat in met een evolutie simulatie is ontworpen, een zelfstandig lopend strandbeest van pvc-buizen te maken.. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-1e",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/m11-bewerkt-2-2000x1413-75.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "1",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "multidiciplinariteit",
+          "text": "Een multidisciplinaire activiteit is een activiteit, <br>zoals bepaalde vormen van wetenschap en kunst, <br>waarbij kennis vanuit meerdere disciplines <br>gecombineerd wordt ingezet om de activiteit te voltooien.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        }
+      ]
+    }
+  }
+}
